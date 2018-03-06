@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# initial conditions
+*.h5
+
+# doit database
+
+.doit.db
